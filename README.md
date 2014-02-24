@@ -16,22 +16,22 @@ The notebooks contain descriptions of the meanings of certain features and their
 and they will show you examples, and they will test assertions about them.
 For example: *the ``clause_constituent_relation``-feature has value ``none`` for a node if and only if that node has no outgoing edges labeled ``mother``*.
 
-* [clause_atoms](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/annotating/clause_atoms.ipynb)
-* [clause_phrase_types](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/annotating/clause_phrase_types.ipynb)
+* [clause_atoms](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/feature-studies/clause_atoms.ipynb)
+* [clause_phrase_types](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/feature-studies/clause_phrase_types.ipynb)
 
 ## Linguistic Variation
 Research into linguistic variation in the Hebrew Bible books.
 Datamining, statistics, visualization.
 
-* [cooccurrences](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/annotating/cooccurrences.ipynb)
+* [cooccurrences](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/language-variation/cooccurrences.ipynb)
 
 ## Syntax
 Research to syntactic phenomena in the sentences of the Hebrew Bible.
 Tree construction.
 Correlating morphological features to syntactic functions.
 
-* [trees](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/annotating/trees.ipynb)
-* [participle](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/annotating/participle.ipynb)
+* [trees](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/syntax/trees.ipynb)
+* [participle](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/syntax/participle.ipynb)
 
 # Getting started
 In order to run these notebooks, you need:
