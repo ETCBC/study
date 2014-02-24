@@ -18,7 +18,7 @@ For example: *the ``clause_constituent_relation``-feature has value ``none`` for
 
 * [clause_atoms](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/feature-studies/clause_atoms.ipynb)
 * [clause_phrase_types](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/feature-studies/clause_phrase_types.ipynb)
-* [tense](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-dada/blob/master/notebooks/feature-studies/tense.ipynb)
+* [tense](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/feature-studies/tense.ipynb)
 
 ## Linguistic Variation
 Research into linguistic variation in the Hebrew Bible books.
