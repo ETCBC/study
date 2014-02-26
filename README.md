@@ -12,10 +12,15 @@ Making your own annotation and add them to the data for new analysis.
 
 ## Feature Studies
 Explorations into the features in the ETCBC text database of the Hebrew Bible.
-The notebooks contain descriptions of the meanings of certain features and their values,
+
+*Feature-Doc* below is a generic instrument to create a statistical overview of defined and undefined values of features selected by you.
+Here you can also find the list of all available features.
+
+The other notebooks contain descriptions of the meanings of certain features and their values,
 and they will show you examples, and they will test assertions about them.
 For example: *the ``clause_constituent_relation``-feature has value ``none`` for a node if and only if that node has no outgoing edges labeled ``mother``*.
 
+* [feature-doc](https://github.com/judithgottschalk/ETCBC-data/blob/master/notebooks/feature-studies/feature-doc.ipynb)
 * [clause_atoms](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/feature-studies/clause_atoms.ipynb)
 * [clause_phrase_types](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/feature-studies/clause_phrase_types.ipynb)
 * [tense](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/feature-studies/Tense.ipynb)
