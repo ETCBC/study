@@ -8,7 +8,7 @@ IPython notebooks developed for the study of the Hebrew Bible.
 ## Annotating
 Making your own annotation and add them to the data for new analysis.
 
-* [annox_workflow](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/annotating/annox_workflow.ipynb)
+* [annox_workflow](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/feature-studies/feature-doc.ipynb)
 
 ## Feature Studies
 Explorations into the features in the ETCBC text database of the Hebrew Bible.
