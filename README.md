@@ -5,6 +5,11 @@ IPython notebooks developed for the study of the Hebrew Bible.
 
 # Table of notebooks
 
+## Text
+View the text itself.
+
+* [plain](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/text/plain.ipynb)
+
 ## Annotating
 Making your own annotation and add them to the data for new analysis.
 
