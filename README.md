@@ -46,6 +46,7 @@ Correlating morphological features to syntactic functions.
 
 * [trees](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/syntax/trees.ipynb)
 * [participle](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/syntax/participle.ipynb)
+* [subject](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/syntax/subject.ipynb)
 
 # Getting started
 In order to run these notebooks, you need:
