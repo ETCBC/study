@@ -31,6 +31,7 @@ For example: *the ``clause_constituent_relation``-feature has value ``none`` for
 * [clause_phrase_types](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/feature-studies/clause_phrase_types.ipynb)
 * [tense](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/feature-studies/Tense.ipynb)
 * [stem](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/feature-studies/Stem.ipynb)
+* [clause_types](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/feature-studies/clause_type.ipynb)
 
 # Linguistic Variation
 Research into linguistic variation in the Hebrew Bible books.
@@ -45,6 +46,7 @@ Correlating morphological features to syntactic functions.
 
 * [trees](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/syntax/trees.ipynb)
 * [participle](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/syntax/participle.ipynb)
+* [subject](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/syntax/subject.ipynb)
 
 # Getting started
 In order to run these notebooks, you need:
