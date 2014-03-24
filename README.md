@@ -51,7 +51,7 @@ Correlating morphological features to syntactic functions.
 ## Varia
 Miscellaneous contributions.
 
-* [verb-twins](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/syntax/verb-twins.ipynb)
+* [verb-twins](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/varia/verb-twins.ipynb)
 
 # Getting started
 In order to run these notebooks, you need:
