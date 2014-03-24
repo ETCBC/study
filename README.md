@@ -48,6 +48,11 @@ Correlating morphological features to syntactic functions.
 * [participle](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/syntax/participle.ipynb)
 * [subject](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/syntax/subject.ipynb)
 
+## Varia
+Miscellaneous contributions.
+
+* [verb-twins-with-context](http://nbviewer.ipython.org/github/judithgottschalk/ETCBC-data/blob/master/notebooks/syntax/verb-twins-with-context.ipynb)
+
 # Getting started
 In order to run these notebooks, you need:
 
