@@ -23,6 +23,11 @@ Correlating morphological features to syntactic functions.
 
 * [subject](http://nbviewer.ipython.org/github/ETCBC/study/blob/master/notebooks/syntax/subject.ipynb)
 
+## Database correction
+This notebook can be used to correct parsing mistakes in the ETCBC database. It takes an input file and can generate a new annotation file which is suitable for adding corrections to the database.
+
+* [correction tool](http://nbviewer.ipython.org/github/ETCBC/study/blob/master/Correction%20Tool/correction_tool.ipynb)
+
 More notebooks ate the repository [etcbc/shebanq]((https://github.com/etcbc/shebanq)
 
 # Getting started
